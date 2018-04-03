@@ -1,11 +1,11 @@
 # Basic
-title: 庆平
+title: 青皮
 subtitle: 工作难
 welcome_message: 欢迎光临,来的点个赞
 description: 行不行
-creator: <a href="http://onev.cat">@onevcat</a>
+creator: <a href="http://yinqp.cc/">@netabc</a>
 
-url: "http://vno.onevcat.com"
+url: "http://yinqp.cc/"
 
 permalink: /:year/:month/:title/
 
@@ -22,7 +22,7 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: Projects, description: My Projects, url: 'https://github.com/netabc'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -37,11 +37,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
+    weibo: netabc
+    github: netabc
+    twitter: netabc
     gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: imgpng@163.com
 
 # Google Analytics
 ga:
